@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/cuu-long-hoang-140a92125/">
   <img align="center" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="longhoang.2984@gmail.com">
+<a href="mailto:longhoang.2984@gmail.com">
   <img align="center" alt="My Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
